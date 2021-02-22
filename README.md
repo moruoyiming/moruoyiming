@@ -3,6 +3,6 @@
 ### Hi, I'm [Jian!](https://moruoyiming.github.io/), a passionate Android Developer 🚀 from China. 🌸🌸
 
 - 😄 `Nick` : Jian
-- 📫 `Location` : Beijing, China
+- 📫 `Location` : BeiJing, China
 - 🚀 `Blog` : https://moruoyiming.github.io/
-- 🎯 `Juejin` : https://juejin.cn/user/659362706101735
+- 🎯 `JianShu` : https://www.jianshu.com/u/0352e2f94969
