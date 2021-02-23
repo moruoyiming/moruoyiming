@@ -5,4 +5,4 @@
 - 😄 `Nick` : Jian
 - 📫 `Location` : BeiJing, China
 - 🚀 `Blog` : https://moruoyiming.github.io/
-- 🎯 `JianShu` : https://www.jianshu.com/u/0352e2f94969
+- 🎯 `LintCode` : https://www.lintcode.com/user/moruoyiming
